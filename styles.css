@@ -247,7 +247,7 @@ nav .separator {
 }
 
 .start-free:hover {
-    background-color: hsl(355, 100%, 74%);
+    background-color: hsl(356, 100%, 66%);
     color: white;
 }
 
@@ -458,6 +458,10 @@ footer img {
         background: white;
         color: hsl(353, 100%, 62%);
         cursor: pointer;
+    }
+    .signup-btn:hover{
+        color: white;
+        background-color: hsl(356, 100%, 66%);
     }
     body nav {
         max-height: fit-content;
