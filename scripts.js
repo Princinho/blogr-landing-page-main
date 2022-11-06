@@ -1,5 +1,7 @@
-document.addEventListener("DOMContentLoaded", function (event) {
 
+
+document.addEventListener("DOMContentLoaded", function (event) {
+    console.log("Javascript loaded")
     const openNavImg = document.getElementById('img-open-nav')
     const closeNavImg = document.getElementById('img-close-nav')
 
